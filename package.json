@@ -1,0 +1,75 @@
+{
+  "name": "celynette8_scale",
+  "version": "1.0.0",
+  "description": "Enhances mean calculation efficiency in Oolong Phase 3, providing accelerated processes for random number analysis. ",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+
+
+    "ieemler7_mean": "^1.0.0",
+    "nemalen4stats": "^1.0.0",
+    "celynette8_scale": "^1.0.0",
+    "lethur4-patterns": "^1.0.0",
+    "brymer4-research": "^1.0.0",
+
+
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "jest": "^27.4.7",
+    "babel-eslint": "^10.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moracelynette812/celynette8_scale.git"
+  },
+  "homepage": "https://github.com/moracelynette812/celynette8_scale/blob/main/README.md",
+  "issues": "https://github.com/moracelynette812/celynette8_scale/issues",
+  "keywords": [
+    "average",
+    "calculate",
+    "median",
+    "means",
+    "math"
+  ],
+  "author": "moracelynette812",
+  "license": "MIT"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
